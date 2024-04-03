@@ -1,37 +1,35 @@
-/*
-42.106.205.241
-*/
-//import from packages
-const express =require('express');
-const mongoose=require('mongoose');
+// IMPORTS FROM PACKAGES
+const express = require("express");
+const mongoose = require("mongoose");
+const adminRouter = require("./routes/admin");
+// IMPORTS FROM OTHER FILES
+const authRouter = require("./routes/auth");
+const productRouter = require("./routes/product");
+const userRouter = require("./routes/user");
+
+// INIT
+const PORT = process.env.PORT || 3000;
 const app = express();
-
-//imporrt from other files
-const authRouter =require( './routes/auth' );
-app.use(express.json());
-// //MIDDLEWARES
-
-// //client -> {middlewares}->server-> client ->
-// app.use(authRouter.authRouter);
-//INIT
-const PORT =3000;   
 const DB="mongodb+srv://kunaldp379:Lawm2471@cluster123.q5php4x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster123";
-const DBase="mongodb+srv://kunaldp379:Lawm@822471@cluster123.q5php4x.mongodb.net/";
-//imporrt from other files
-// app.get("/hello_kunal", (req,res)=> {
-//     res.send({kunal: "Hello Kunal"});
-// });
-//connections
-mongoose.connect(DB).then(()=> {
-    console.log("Connected to the database");
-}).catch((e)=>{
-    console.log("Error connecting to the database->>>>", e);
-});
+
+
+// middleware
+app.use(express.json());
 app.use(authRouter);
+// app.use(adminRouter);
+// app.use(productRouter);
+// app.use(userRouter);
 
-app.listen(PORT, "0.0.0.0", function(){
-    console.log(`Server is running on port ${PORT}`);
+// Connections
+mongoose
+  .connect(DB)
+  .then(() => {
+    console.log("Connection Successful");
+  })
+  .catch((e) => {
+    console.log(e);
+  });
+
+app.listen(PORT, "192.168.121.227", () => {
+  console.log(`connected at port ${PORT}`);
 });
-
-
-
