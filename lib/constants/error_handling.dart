@@ -21,5 +21,7 @@ void httpErrorHandle({
       break;
     default:
       showSnackBar(context, response.body);
+
+    //what is the purpose of this default case?
   }
 }
