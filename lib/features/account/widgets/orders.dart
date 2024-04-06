@@ -93,3 +93,66 @@
 //           );
 //   }
 // }
+import 'package:amazon_clone/constants/global_variables.dart';
+import 'package:amazon_clone/features/account/widgets/single_product.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+
+class Order extends StatefulWidget {
+  const Order({super.key});
+
+  @override
+  State<Order> createState() => _OrderState();
+}
+
+class _OrderState extends State<Order> {
+  List tempList = [
+    'assets/images/laptop.jpg',
+    'assets/images/product2.jpg',
+  ];
+  @override
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Container(
+              padding: const EdgeInsets.only(left: 15),
+              child: const Text(
+                'Your Orders',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              ),
+            ),
+            Row(
+              children: [
+                Text(
+                  'See All',
+                  style: TextStyle(
+                    color: Color.fromARGB(255, 0, 147, 132),
+                    fontSize: 15,
+                  ),
+                ),
+                SizedBox(
+                  width: 20,
+                ),
+              ],
+            ),
+          ],
+        ),
+        Container(
+          height: 170,
+          padding: const EdgeInsets.only(left: 10, top: 20, right: 0),
+          child: ListView.builder(
+            itemCount: tempList.length,
+            scrollDirection: Axis.horizontal,
+            itemBuilder: (context, index) {
+              return SingleProduct(image: tempList[index]);
+            },
+          ),
+        ),
+      ],
+    );
+  }
+}
