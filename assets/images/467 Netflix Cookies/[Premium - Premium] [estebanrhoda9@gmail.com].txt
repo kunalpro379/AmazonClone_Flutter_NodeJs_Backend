@@ -1,0 +1,13 @@
+.whats-on-netflix.com	FALSE	/	FALSE	1707929387	GRV_gs	GS1.1.1673376586.1.1.1673376586.0
+.whats-on-netflix.com	FALSE	/	FALSE	1707929387	GRV_uuid	ecedf514-0713-4c83-ac47-255f33bc764c
+.whats-on-netflix.com	TRUE	/	TRUE	1707929387	_ga	GA1.2.346652948.1673376587
+www.whats-on-netflix.com	TRUE	/	TRUE	1707929385	mo_has_visited	true
+.whats-on-netflix.com	TRUE	/	FALSE	1704905392	_sp_su	false
+.netflix.com	TRUE	/	TRUE	1707050804	nfvdid	BQFmAAEBEI9SdczkxmWBUz1j5XXvRnpgOznqio2eTHNNIC3_0ChnjBNj1_w8eDdYCnEfjKorRf386uegLnRC_Lp3LRt5-TACPGtK9ez7OWc2yA5EklkZtGSJNZjE5G660sBAC8lJl1be5qaITIxtpsPJDQeEjX3W
+.netflix.com	TRUE	/	TRUE	1708766108	memclid	43e2c013-47f1-4225-9ace-207ef2b71cb8
+.netflix.com	FALSE	/	FALSE	1712837809	NetflixId	ct%3DBQAOAAEBEPAUynFHz-stVbZvgYdtgHeCEDbL-aYxhE1kBwOG0f-Ra_lqeqCUvK_spUxdQbRokAtW76yxB9O59mt1RVIVjqoiTx3ScTGSxC4FFMGzpSkYOBKofWdlFjNQaDgzRqNDEtth9Odmnxr0PQ_UhKtSErp5HCFX1S7MEibciF6kUAax4DhlgjPNwcHEJCGGSixRx6FeR_vVl6NwNfqIn_0TZrA2DV84UFHhMUBkVZdRgS4q8MGDoE1Jnld2j-kn4F6J1YQFb3Wp6EyTALV3XBVflbuslFLik7mYqFdF6ZU7wWxVvxphO_xOgG7pOjnkfuPb7hV3lyTTyscsrda1He-keaVNyVs-qX8PoX_sWUnfava9gLCds9yPOugBUkd7-P3ukT1xVweYSwKxUSz3uqazRbhK5eOXL0vSYNUCO6HxXKF_O_coOhxNxadpOZ0pE5kNGQLsJThzmIbMID-L1zyNHuvZ3kGXBQjclrZgIq44WPnEg8NAoufUeqUPdplmFwNfwwWyvhwFklGn5kge8MlwXL7bzmKIj3c0oLSi2Ldy5OBE6_qlIryql4gvo-9WAodOscfaXmsqX8umeoF0jwkoMEBgBINpRXXlK0W47rhkSNsAyeHIVRI3nlL8I5EPbpNPIWbrZ97Smn96G8vq0Ltr8kvRKh4GBkrL7MSHmh8w9VAlCsTM7qX3BF-VYfMRkQv0qGYCfgs7a5dWTwbvzdr14cMbYw..%26bt%3Ddbl%26ch%3DAQEAEAABABQRaM9ANQ9LjUlbeVzSw_lEPkFq5Fl61dU.%26v%3D2%26mac%3DAQEAEAABABTSzs4neG-xWneVPzV5mNSOJlhqspiXMqs.
+.netflix.com	TRUE	/	TRUE	1712837812	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+12+2023+22%3A16%3A52+GMT%2B0800+(Singapore+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=84fd3462-dc45-4201-8e6d-ce7e56b4d198&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1712837809	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS7S3j6ToyxU1EWWQQvqjgOfQxsmW6oNGY.%26dt%3D1681309008849
+.netflix.com	TRUE	/	TRUE	1681312609	flwssn	0fbabf3e-a2c2-4a35-a9c6-64a54adb6143
+.netflix.com	TRUE	/	TRUE	1689077810	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1681310890	profilesNewSession	0

@@ -25,6 +25,23 @@ class GlobalVariables {
     'https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wireless/AdvantagePrime/BAU/14thJan/D37196025_IN_WL_AdvantageJustforPrime_Jan_Mob_ingress-banner_1242x450.jpg',
     'https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg',
     'https://images-na.ssl-images-amazon.com/images/G/31/img21/shoes/September/SSW/pc-header._CB641971330_.jpg',
+
+    // 'assets/images/1.jpg',
+    // 'assets/images/2.jpg',
+    // 'assets/images/3.jpg',
+    // 'assets/images/4.jpg',
+    // 'assets/images/5.jpg',
+    // 'assets/images/6.jpg',
+    // 'assets/images/7.jpg',
+    // 'assets/images/8.jpg',
+    // 'assets/images/9.jpg',
+    // 'assets/images/10.jpg',
+    // 'assets/images/11.jpg',
+    // 'assets/images/12.jpg',
+    // 'assets/images/13.jpg',
+    // 'assets/images/14.jpg',
+    // 'assets/images/15.jpg',
+    // 'assets/images/16.jpg',
   ];
 
   static const List<Map<String, String>> categoryImages = [

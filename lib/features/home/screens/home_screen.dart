@@ -109,15 +109,19 @@
 //     );
 //   }
 // }
-
+import 'package:amazon_clone/features/account/widgets/below_app_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../../../common/widgets/AppBar.dart';
 import '../../../providers/user_provider.dart';
+import '../widgets/carousel_image.dart';
+import '../widgets/deal_of_day.dart';
+import '../widgets/top_categories.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = '/home';
-  const HomeScreen({super.key});
+  const HomeScreen({Key? key}) : super(key: key);
 
   @override
   State<HomeScreen> createState() => HomeScreenState();
@@ -129,8 +133,47 @@ class HomeScreenState extends State<HomeScreen> {
     final user = Provider.of<UserProvider>(context).user;
 
     return Scaffold(
-      body: Center(
-        child: Text('${user.toJson()}'),
+      appBar: PreferredSize(
+        preferredSize: const Size.fromHeight(50),
+        child: MYAppBar(
+          icon1: null,
+          icon2: Icons.mic,
+          logoImagePath: null, //'assets/images/logo.png',
+          // logoWidth: 100,
+          // logoHeight: 50,
+          appBarGradient: LinearGradient(
+            colors: [Colors.blue, Color.fromARGB(255, 135, 255, 139)],
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+          ),
+          leadingIcon: Icon(Icons.notifications_outlined),
+          textFieldController: TextEditingController(),
+        ),
+      ),
+      // body: Center(
+      //   child: Text('${user.toJson()}'),
+      // ),
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            BelowAppBar(
+              displayText: "Delivery to ${user.name} - ${user.address}",
+              icon1: Icons.location_on_outlined,
+              icon2: Icons.arrow_drop_down,
+              helloText: "",
+              username: "",
+            ),
+            const SizedBox(
+              height: 12,
+            ),
+            // AddressBox(),
+            // SizedBox(height: 10),
+            TopCategories(),
+            // SizedBox(height: 10),
+            CarouselImage(),
+            DealOfDay(),
+          ],
+        ),
       ),
     );
   }

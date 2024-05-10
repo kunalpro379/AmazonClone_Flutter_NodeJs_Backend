@@ -1,0 +1,11 @@
+www.netflix.com	FALSE	/	FALSE	1706102964	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1720358978	nfvdid	BQFmAAEBEFOeP944N2mYK3pK9p6OGCVg3PyBTZwZZn3CBGksl3ZemN94SLIyGTsS99UhVaCyK13zfT1FUIbXfgAJkox2qv21eaLiN3W7SRLAxZUQuPKD_qmxhAVtt-kPk8jauIK4aQ1zIl_8gDhFfkyqUc8o8RYk
+.netflix.com	TRUE	/	FALSE	1694377102	flwssn	e84ae388-999c-48b8-9c9f-a690e2276abb
+.netflix.com	TRUE	/	FALSE	1757438302	dsca	customer
+.netflix.com	TRUE	/	FALSE	1702661373	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1702661373	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1702661373	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1726421369	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRn6D8PFrTH3JXfrU2Vn8w_u-JOcm27GOY.%26dt%3D1694885369166
+.netflix.com	TRUE	/	TRUE	1726421369	NetflixId	ct%3DBQAOAAEBEOlDpau6wbFGE-Ihr0lMG-GCYCvxbl8trTM__4CZca3PpC0rAi_VJ28o0vjtutBeKTRcBwJciawMdgyzwK2QjiTD-BMq1LBc_rc1qepXGA_u_jCL_YIIELS0ZYL_YqzfM1gJjSIEY0smJo_BoeMGy7h8bPB7TqNHV5N7_Ln3mYr_Aedl68AEIRqD4e5W1-VyXiNSzGumJaHht09VewB7teTDJM5sROx_Fr2JvghMV7UxhUlOi86PWe8Ts9vHVj5A0UqjHXSjWvxPURg-ObPkc76DU0DghiV1EVpyXOUmBSpu-8enZ41Z9VI1uUAx2Kn5_TvaiEHPTAf4kJyo375od4Sz7Um0mdgL4ehtEqo3vMkqT_t-9jBDkEdS0hn7NXJWNGNJMuInFrMqrinjhPRs_T4bhXHQIrkMbAz-G8QIyav__cTQ5EVK1D9Ki32QpVOoyQdHfKkRcLj0zz22d3UIgeUoM-FcJPZxy9dM95ALRTB0nq8GSg3L_i3cqbh358ALwL5zoogzX0lz0G1WJ7QrGewsIaK79bxr-ek7X4AVxJJQ-lvGMpv60qXbPaeC4ix8H7ZBVRcRkFZBVdelP1nXoesGIbgzxKUnOpwJZgxdvc9_8phfCQBGG_rHsrsMkEGq15-HVa5q8ss3Ro5MiffE8giYuvWgZD4L6BkVu22LXg2a3AXgyOZvrMSSa8pTm5-v9BeW-fH6EN1WYcKbQ1szYTMxGXeUNDFQJinS4zIPEDWzRLJ7ypB3nJ77jrVrgY2ZqZgAcHgoYLdTK4nbbW8zyfQsi0bip7DfmOs7yvuOEMUo57H-kUMCiOxWLGAH5Two4M0B%26bt%3Ddbl%26ch%3DAQEAEAABABSXtgddrEgXKyDA53J9WcRTCqvyjbYl8Ck.%26v%3D2%26mac%3DAQEAEAABABSphZcI7TVMzLYo7dTaxSUvGh2XruDu5ck.
+.netflix.com	TRUE	/	FALSE	1726421374	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+16+2023+19%3A29%3A34+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=8e47bfd1-7888-45ca-a948-eaa28cca01d5&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1694909476	profilesNewSession	0

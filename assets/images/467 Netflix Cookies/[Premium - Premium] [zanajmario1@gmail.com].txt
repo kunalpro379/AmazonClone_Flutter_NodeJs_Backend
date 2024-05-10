@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1695672597	OptanonAlertBoxClosed	2022-09-25T20:09:57.358Z
+.netflix.com	TRUE	/	FALSE	1695672649	nfvdid	BQFmAAEBELvltirwE-qL2kvMUnWcTQJgobQ6nniwArCiohKqyIzx2GVQ05ONVC_ChVOuzbDIuPhW22QdsQMGK8z5FKHz_Vu4wmktG9KVqpdGd-pA0XvShLkSzCzysPvEPlkxBuKLUg0qYHd_5cA6Mm-PU8rYla-S
+.netflix.com	TRUE	/	FALSE	1704668692	NetflixId	ct%3DBQAOAAEBEAwfZMYwlNsNfzoJE_jvWM-CUCPVagoD4kcblA8zRUizUlPe9FD4tKqYcPQJckJ7dklpmP8vhkRBqIRUaHl1ta4yUySc-2hR1mMoXPfNVLKYKMNVsX4srUGeXt8AyGQZZE7N6cDCYjfN4GQ1DCac5lqVvo0vf6DIIuTmtwZRm9TpWaGBm7wX40Wl10nfSVeLnHI5Ayj_tBgjF6YGSd52yCBZc672O0tv5XqNkGJqklGIQroBuQIp4lBcd5_QiyufLQYSZ1AaEw4CjDtGrxgWkzIULR98vz1mXHgt2qt9FirIlAkn68wveMAR8EP-H611-SUg1hukU-_0oFobNlWoqXkbM0yYIZnPdIj5kWDNNwe37gFyLslmixmKjYroPuWACU1rOT_kh0APLpMhlh5n-T2FBAYxQUJVx4s7YOIJivGS5M9SRIbgst2ZdyYL9MrpC0bX52DPO9IC4tm9YPKN8QmVGKwGAjYbK1wWyh_YPveuytsLjDDuAu0lFhlUqZNt-kbgkg0bcOGIekiRbYk1ttS8mwmeRJIm_bKtWN2JZGr19AiMC1872Uk9PBKQv0ZMPfpKRChGAEcHjKGcEPwYMfW6PpqJWR9r3jzT_0Oxph61iFcJvFl0-GvI-0eQ26F2V_cFf_gETgoQsFwz437OWp4up1OZTG2kSmjx_hD_V-OKW9oFb4YF36ngBamJih2XOwCg7LZdvtanVabTh4kYMZxu8OSqszNroIKmsEmDdN-DReHtAj_7zuNIefcWj1Ink0Zv4vuvVYEH2EiUNwNB-OsEMhsLSxQxjnivnU7uYt45gZ0.%26bt%3Ddbl%26ch%3DAQEAEAABABTdFjLUUbAChuKcJnbvfmzDhLVNjaDt8vE.%26v%3D2%26mac%3DAQEAEAABABQvgMpNy7iDOF0bd0eYkyMkfcM7kxuTn-o.
+.netflix.com	TRUE	/	FALSE	1704668695	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jan+08+2023+00%3A04%3A55+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202211.2.0&consentId=0fbe542a-9050-46cb-86f5-fd3d671ac1bc&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&geolocation=IT%3B34&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1704668692	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSKrPlGE_zMQQuUZcelNvRAJXgqgkOx_XI.%26dt%3D1673132694353
+.netflix.com	TRUE	/	FALSE	1707692692	dsca	customer
+.netflix.com	TRUE	/	FALSE	1673143492	flwssn	e7fca67c-ffe2-49d9-b86f-25b00f86a3e9
+.netflix.com	TRUE	/	FALSE	1680908693	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1680908693	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1673138185	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1704672419	memclid	f8dfd90e-e64f-4f1a-b169-c690c3849088

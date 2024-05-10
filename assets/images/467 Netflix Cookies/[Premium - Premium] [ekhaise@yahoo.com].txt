@@ -1,0 +1,10 @@
+www.netflix.com	TRUE	/	TRUE	1692547109	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1706803425	nfvdid	BQFmAAEBEEJHF6DvXxSUUTD0_egm6utgDbZCdxAH7X4ZpoPFtrakr0rO7y-7d_pULKF4cit3_adqjqcGQED6VDOZWy1XVzvhBiXlGt-H6P5SMOhU3XQi7W_ag6fzqTLqlX3qkCaSiDTXCY1wQqz4fqVWTYGRtjKF
+.netflix.com	FALSE	/	FALSE	1706803442	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTo2EWb7KkE__2HLlSpEZqmcJhjq_-H_64.%26dt%3D1675267442470
+.netflix.com	FALSE	/	FALSE	1706803442	NetflixId	v%3D2%26ct%3DBQAOAAEBEMYGwIgL_iN12Mz0hFZp7WaBwHTYVIUkryYuI81C4McUl7GVn154AWzHJxXKIIQGbK_5Bekpl1AMjaTq9dSP55fW8KYiPCzWHZlSysYZGTt2eraD0IT0DwfI5px22enOui2b9g-0kQ7NHimT1yWQ08OJBjQoJp-6rsFh-huU73V-1NpwB-m-2eK0ZDpSUQH7qDY7VhVZhOjCTw1fkjto8QYz1mWPAdQjTwZJ05PR3KCaGdmQZSdvP7eZ4ttQi_dfiaSsaXqekY4Ld_M66hGBjV6XUoW8nLWr3Ma1gdi9lFy_1imNd0bWioI6llM14fh3DVBF-4lTVYlKSMN-d_l2xV6FL_0LYV_K1jr_YWNp_gS5W9_24mmUViPpS3MAtvM_G6FGvb6AD1JcGrsirkoXlLt0CWxMyeASZhnuQbj76y-BfzVlMjKzBiVjbIkziC2XSUMjaEw-D2mN-OaKMq3ZdtaQf47O5ltXGl1J0KOgTMNyJZAKzRicMButPo2rg_pHZVmRVVXEo5gj3CvfFwOipA0-jU8wfhXsMXcGcg-_ixdKDXK77BSi_rfPeKsuE9yXLzm0ZapcTYdodHGmYokVSRlv0Y44eA2RZL-Ov43vQzb0z8M.%26bt%3Ddbl%26ch%3DAQEAEAABABTCIT1C_8NsL1UmMibZ6aB0eOvhe6DHIGM.%26mac%3DAQEAEAABABSjjsJ0nwCwCsFNtsreJTlQM55iM8CeDo8.
+.netflix.com	TRUE	/	TRUE	1706803443	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+01+2023+16%3A04%3A03+GMT%2B0000+(Greenwich+Mean+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=49ba97b7-40e7-440d-b6f8-ba8ed54869c3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1675278534	flwssn	60f89336-9f9c-458b-8770-567f4ca54aa4
+.netflix.com	TRUE	/	TRUE	1706804168	memclid	6311a519-f2e5-48c6-a420-32dfdeced145
+.netflix.com	TRUE	/	TRUE	1683044168	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1683044168	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1683044168	netflix-sans-bold-3-loaded	true

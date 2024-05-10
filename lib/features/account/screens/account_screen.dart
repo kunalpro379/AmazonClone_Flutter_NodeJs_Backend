@@ -61,15 +61,28 @@
 //   }
 // }
 
+import 'package:amazon_clone/common/widgets/AppBar.dart';
 import 'package:amazon_clone/features/account/widgets/below_app_bar.dart';
 import 'package:amazon_clone/features/account/widgets/orders.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 import '../../../constants/global_variables.dart';
 import '../widgets/top_buttons.dart';
+import 'package:amazon_clone/constants/global_variables.dart';
+import 'package:amazon_clone/providers/user_provider.dart';
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import '../../../constants/global_variables.dart';
+import '../widgets/below_app_bar.dart';
+import '../widgets/orders.dart';
+import '../widgets/top_buttons.dart';
+import '../../../common/widgets/AppBar.dart';
+import '../../../providers/user_provider.dart';
 
 class AccountScreen extends StatefulWidget {
-  const AccountScreen({super.key});
+  const AccountScreen({Key? key}) : super(key: key);
 
   @override
   State<AccountScreen> createState() => _AccountScreenState();
@@ -78,46 +91,39 @@ class AccountScreen extends StatefulWidget {
 class _AccountScreenState extends State<AccountScreen> {
   @override
   Widget build(BuildContext context) {
+    final user = Provider.of<UserProvider>(context).user;
+
     return Scaffold(
       appBar: PreferredSize(
         preferredSize: const Size.fromHeight(50),
-        child: AppBar(
-          title: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Container(
-                alignment: Alignment.topLeft,
-                child: Image.asset(
-                  'assets/images/logo.png',
-                  width: 120,
-                  height: 45,
-                ),
-              ),
-              Row(
-                children: [
-                  Padding(
-                      padding: EdgeInsets.only(right: 15),
-                      child: Icon(
-                        Icons.notification_add_outlined,
-                      )),
-                  Icon(Icons.search)
-                ],
-              )
-            ],
-          ),
-          flexibleSpace: Container(
-            decoration:
-                const BoxDecoration(gradient: GlobalVariables.appBarGradient),
+        child: MYAppBar(
+          logoImagePath: 'assets/images/logo.png',
+          logoWidth: 120,
+          logoHeight: 45,
+          icon1: Icons.notifications,
+          icon2: Icons.search,
+          appBarGradient: LinearGradient(
+            colors: [Colors.blue, Color.fromARGB(255, 135, 255, 139)],
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
           ),
         ),
       ),
-      body: Column(children: const [
-        BelowAppBar(),
-        SizedBox(height: 10),
-        TopButtons(),
-        SizedBox(height: 10),
-        Order()
-      ]),
+      body: Column(
+        children: [
+          BelowAppBar(
+            displayText: null,
+            icon1: null,
+            icon2: null,
+            helloText: "Hello ",
+            username: user.name,
+          ),
+          SizedBox(height: 10),
+          TopButtons(),
+          SizedBox(height: 10),
+          Order(),
+        ],
+      ),
     );
   }
 }

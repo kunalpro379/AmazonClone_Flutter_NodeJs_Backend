@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	TRUE	1707134258	nfvdid	BQFmAAEBED9NOzCXsTMg8TT_BT0noSVg4V9UAQMgo5wXCWR-k-ro8vx2PRoqWHeeC4Ac-2BKGk2PDjyJg5iUY17eLDAi3gfLKIEAj2rlO5RtQ9rMZdIzqCblI5ldZjcRthYDpVtwmisx3xJLDhqWqXZFbzo4w9jl
+.netflix.com	TRUE	/	TRUE	1710515279	memclid	ed38d9c6-66e1-438f-82e9-3adcdd76b4c1
+.netflix.com	TRUE	/	TRUE	1681531244	flwssn	b37c9a3c-6f11-4c69-8434-7d86f241f56d
+.netflix.com	TRUE	/	TRUE	1689406604	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1689406604	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1689406604	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1713166607	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSBf33XfiMMGDSyWmGj-q8udbUMGQwMuss.%26dt%3D1681630607330
+.netflix.com	FALSE	/	FALSE	1713166607	NetflixId	ct%3DBQAOAAEBEOmfLo_Qs6G60YCwwoYH8MiCQB-mTOsyDi7il9RmIFYVwBwkYXtdR2Xt4BBEFpAIdqSO2BMH6nYYmImdfKT9EQgQBI46RaJF8LwUdj5d5KU-qEiyBbWs9AucBwEpfMrG71hQCJT_ulnY92VUG1pCcDImwmiRTuFqtBQj_ZchgiJO2kyjDF1r0r8gfRstpZRQGT7jMi0aUciKve_KIF3F2ZFkpeOBzvE7jXxAq5ZhdVDJ-FimUTMedY5WVmbK3i1QgnZENFIzVCP0kYfys7YrqHw1o_0lpTAMMtjI3hsuOJG9BX3Hguj_hCEr8k5egcEQ9ALughvFJ_tpNbBRiGwRvphgv8HBRXEiAm9SrplQGpbB-ADtvtgfEqTJwbQQW2bGSAzw9WvhktoZrgO3AImDMJdVfm9b4gwdCTmWjgNLcDLh5NFkuzA6TczMb81w9yCg-pssPYL91VkPVEY7R3aK_TSEET1G80i_ySsc-3AxcuE-rXCUY3wsM6yQHAl6m-m0LXUDUkvcRXhLXqSzSCfIDL-T_2yyOI-bh6d9BjE2hmX2mN6mv7Bc_REJ_nnFaTOi8XQM43Nc7eZ3AOijQjd_qAp-XD_Cy9tzGtA7WNBxHgNpW-Vo54WUHOkUSqF_UHjwWKi-WihWIezsEnafulm21EE2NhzPnfs9xLvaQSXROAfOHNqHlGx1xTho4Acxpps_bKOi8SxcorpnyYB_wk_0YEn3GfVfL3HXGYq7Rmb6MeyjRmpao1AUhWzs9XHsgYBBO9V6RDJdO2JxMo0aH137L_hLCw..%26bt%3Ddbl%26ch%3DAQEAEAABABSVbKswWdDmbHdm30_NyHuU4uWGR8DVDWo.%26v%3D2%26mac%3DAQEAEAABABT6NjQ2wWcTmlQqV3h6PQvt-p6zNrduFoQ.
+.netflix.com	TRUE	/	TRUE	1713166604	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+16+2023+15%3A36%3A44+GMT%2B0800+(Philippine+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=79a61750-38c5-4ae8-9159-ef408198929d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1681651980	profilesNewSession	0

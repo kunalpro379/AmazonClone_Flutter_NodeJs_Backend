@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1683587978	memclid	49bc582d-4789-485f-ac29-71fc62068852
+.netflix.com	TRUE	/	FALSE	1659827975	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1715080143	dsca	anonymous
+www.netflix.com	FALSE	/	FALSE	1669246311	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	FALSE	1714174397	thx_guid	1240bad309364d33906b5d69d8c12903
+.netflix.com	TRUE	/	FALSE	1683502459	nfvdid	BQFmAAEBEMkGl2scgQyBZNEF1FIyvMJghCW91HKf4Jv0u-JdDNgpnsNrUbV2G-4knMM7_nrE6Ufl_xekFVyk8h8G27mcPzgKWcPPMTaND1kzP7Tm-zOVturWLYLcsglsdpJrXwzqfMCUnRxffPFz8I6apvd5kuX6
+.netflix.com	TRUE	/	FALSE	1652062774	flwssn	6fde4d9e-6a0e-49b6-a13f-210b9476de78
+.netflix.com	TRUE	/	FALSE	1683587974	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRVmxuhq9XA67cXkNApZZkjMnajPdPUsK0.%26dt%3D1652051975176
+.netflix.com	TRUE	/	FALSE	1683587974	NetflixId	ct%3DBQAOAAEBEIeSkiOBc5s3zhh3kreIuZyB4E9xBXVOvPuYENqexUvu-HWwl4lXdvXnikyFj1rJQg_T1CNZ6YQSHo9KVOafN9OzBju1uvv3hYvP0onP2R-CDyqeOF2bYhP3ArLNCetpid_gWxJi_y9AVU7G50R-nGCMB1n8SzX31HT2lJUSBWbUzwscsdlqL9UJ_rR9n8S-TRMwrxRB1BUFdxq9oad_IciLKJ-wS7k89VlNgrgcS8azWl9HoYXhjZpo0yb8dm34S6FivpdSBw5UrveCsYgFPx7J110OaPU7tA9tsc9zZwOl6sxiD7Jx9vM2orwK_tYPo7jB4G9RIwpEWYpXMeC4ET1cBkt4KidfoK-Lym8a7z2JHm9YMcH-_fIQX1bPX5hi_8qeSDBMdkdcU2qEFKnmvLiB2Re8BIcxae5y2eQsq35eC-NhAefoAkJiWZuR57ePbiCY4i0wmUU7S0FiF3T2LTHZ4QpasCE2CcKafsS3dJ-el6vKxtvdCF1f23V4HVBCibDBRq3wv9CRA6fZXuH4aPzvOcSi_YqFA2X0CKJlgTr235Ei93gOaKiOwkiBuCppP0k5-I6D1uJBiGZaCnsEx3_lglwIEiRDjRnRJCsyxrHTHZ2fdZmMve4ZwfkrJss1SqXKXxmDVntr-BPpcjFTEQDfig..%26bt%3Ddbl%26ch%3DAQEAEAABABS3HEIC0FB8SvFHNpxGupXxEH8asaxGYy8.%26v%3D2%26mac%3DAQEAEAABABSWu3pjG38UFepThVgVVyW0iT27Im3ulkI.
+.netflix.com	TRUE	/	FALSE	1683587976	OptanonConsent	isIABGlobal=false&datestamp=Mon+May+09+2022+01%3A19%3A36+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=6.6.0&consentId=9e6e4a8d-fc33-4526-8b31-25edf6d47f84&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=IT%3B82&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1683587976	OptanonAlertBoxClosed	2022-05-08T23:19:36.781Z

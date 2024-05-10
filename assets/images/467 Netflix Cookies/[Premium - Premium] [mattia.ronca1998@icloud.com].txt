@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1675613558	memclid	1779deaa-b0f5-4a53-8ce1-0111a2e2672a
+www.netflix.com	TRUE	/	TRUE	1658507209	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1651853558	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1704341114	dsca	anonymous
+.netflix.com	TRUE	/	TRUE	1672763245	nfvdid	BQFmAAEBEP_A0SowBvYZyZ9zNZQ_Hl1gOTLpdqOgW0RCwuHIxOAR9JBjvouTgw0yme2i-a_DvUGZFXyx8MYTRaZaWtp9Y65vG1m3QMglI0j5IRdlXC6D17j7d4HLrIVbDsPdB5OI_vvZAvjYIxYmq5K6axVMSoQ0
+.netflix.com	FALSE	/	FALSE	1675610210	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQqBvNaBvzc2RO8Nkf1991fuXCJ7hCb1b8.%26dt%3D1644081388161
+.netflix.com	FALSE	/	FALSE	1675610210	NetflixId	v%3D2%26ct%3DBQAOAAEBEHohlqPab8L3uoabMi8sHCWBwFsqf09t2vrCDe35XRJs3CA6hob848REsInEfGexOUFi61OTtmG272NwEz8QOULMbcALn-y5gzBNUIgVgEiRPrfhnEEQB4IyZ8bslo-lmYnGEBsQlf8mQI6y4cRJw68unU449bwYAYCI41lJXOHw_YRt0Eog1DE3Y6R2WhUm_3R4JahuhdbQqq_diaqYTO61mni-BYWKN6wQVGFISY4O_Pf4b_l2Jp_JIA3eZSwxWkyOJS3INWXM6kH70G6y2nSNgL0zQSDIXXjenqEgDMVGZHanr00taOII-lwf7x51-rhjhsaulBRsIzP0s3f4ZI3_BUigAAfwl6o6MgOCEyVddNAH-8RQgqMJN9FIRjDtd1ZfXzqj3FounjjqSom0KRCWU17qpFUzl3Z0JRQPlnXI7e_BrCdmLRWQR6xi7DmxDy0JRRLxb-Cu4jZBTnr6oxbCXAGtyzNwHlGngmkicZc00BFgGoMhCNeeqqGRIf5BBpaw4pWelD3adA0Jb0e4LsiR_GNl8M7FGZsiEwCS9a1wE6dR5h0uxaCW6w3xNlWLEF5YEETSuOB17yCdokFrO6GkaPpzT4L0FkjtkB8okzXZG0k.%26bt%3Ddbl%26ch%3DAQEAEAABABSV_N0OQD_RKWdnUFoE8DHfp0EdUNsHBPU.%26mac%3DAQEAEAABABQq5_l3e8LDwrjvMYz3Fb5-LMl2tMFviIE.
+.netflix.com	TRUE	/	TRUE	1644088291	flwssn	8e3517b6-0a37-48e9-bd60-e526cba569e0
+.netflix.com	TRUE	/	TRUE	1651853558	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A1464.93%2C%22throughputNiqr%22%3A0.8510755736342719%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A1464.93%2C%22throughputNiqr%22%3A0.8510755736342719%7D%7D
+.netflix.com	TRUE	/	TRUE	1675613573	OptanonConsent	isIABGlobal=false&datestamp=Sat+Feb+05+2022+19%3A12%3A53+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.6.0&consentId=051638b0-4000-4074-94f3-ab958ddf7487&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=%3B
+.netflix.com	TRUE	/	TRUE	1675613573	OptanonAlertBoxClosed	2022-02-05T18:12:53.415Z

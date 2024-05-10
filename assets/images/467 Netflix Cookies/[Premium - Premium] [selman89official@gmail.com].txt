@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1733100489	nfvdid	BQFmAAEBEDonEvrTBqxMTcYmqsXU30Rgty_dxNIEjUd36HuMBNrSvwCr6NAeA07cmo0WWtSxOIJCp0O6rpViL9qP3WktvYvUCU4HXYgMzQzIZlFMOqn4fnbX4u_doRupWV-c55VKr5jJ-uVQowWCeTy_6EFdXBwo
+.netflix.com	TRUE	/	FALSE	1733100547	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+03+2023+03%3A49%3A07+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=bb76f4a2-2d68-4477-aece-fd5a70fb801e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
+www.netflix.com	FALSE	/	FALSE	1720546414	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1737826415	dsca	customer
+.netflix.com	TRUE	/	FALSE	1736154088	NetflixId	ct%3DBQAOAAEBEJtZy8Lo3gV2BaAJjGNAotyCEHa0nfZTbBZ2rMvydBSxS1DxM5HGc3Lj-_2eMuMnERY-1VgniwPpmtkOAkHaYvcr8cJQg78XJg5_ayUaKSW4MzFIWg8wPesztpSaCIWD4E11F4l5Yv1wRo0CV9M1IV8QrZt4xSnNXHwxr6dusLxSlsLZQc4QDSy2xH9jz1eY6ulfEB1Cq5X_3pLNywYDG7K-zO0HzhnX7G8kdU5OC-JM13HfoYkzvx4tMFLPbLezD7UsqSnEeSgFcTboeZI2qNOJMOU3cXZdWaA_vzAYKk_Yaoy8840cKrQbZ7qbcPmZ7c1pWRYINXEE7eBShKFkrw79o_VSU7qgrbNY_mrgaisuF-J7I9Ii5mrIL4ukP69aV0yzW3ejIprdCHLaDLG-jIWEtddzE_mQN8FS23dmNgNMzB1MRf46mbrWPmCVLd5Lgw7WGycH7Cij_dyoe09PUO52d7K10mF5OWL8bkH5BUaGz4ZxumEppWTvawf0LQHD9GNhW6KHDHDjnyu4eo3nm6qpL6wytKs6H1IGiR-Il43NvkelL0oTWMofapJ8R1XC055tomE0_GqPu_gh6FKIlzne59lR48nC0b4ehi2e1tpOPB0uVputBjRpLrGrHjbcBSt90YdKm7H3TyBKDVQl3DkHjJB8Xrm57R6A21lcxyFsVUZ4mY2eBoPYjxuTRzHabP-PF0F7y8JR4yBJbO6F72JK8Q..%26bt%3Ddbl%26ch%3DAQEAEAABABRFExYBcomacxchOUowoYW_Ry7XxTACBlI.%26v%3D2%26mac%3DAQEAEAABABQqQutC-o4PyfGKggFcw_L613xtomV84cE.
+.netflix.com	TRUE	/	FALSE	1736154088	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRwmXs4j62jpyKLEs4QY-DzgpF2Jloac1Y.%26dt%3D1704654397381
+.netflix.com	TRUE	/	FALSE	1712435227	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1712435227	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1712435227	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1712435227	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

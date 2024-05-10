@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	TRUE	1705513453	memclid	9fec0280-95e4-4558-8910-385164871980
+.netflix.com	FALSE	/	FALSE	1720637671	NetflixId	v%3D2%26ct%3DBQAOAAEBEC_wvo9zPyEmTl03OOwiDxuB4L7EgCeuB3pVzUcqw5ve4foXCbdFTkoJHK5tLoD39vzdagTnmhtdknnZwY37ovKfIghlbywqQycdMGSB0JcSCFzHlwWardCGKQsPnlh1F2v9f6VBt9XPQZ-sUNXdwvlkztM7E_x3B9EHoDrclD8usNFmsiXPTEYHb6UsZJIRi90gs3VE1Lkr1FMjATh5yEv687jx82XtNFP4pLhCT9_VM5oJ2nttJnc-0P-UdNZobvG-H-R8UvyTEiCG32IJ3lf-IZy0CfBoh_ZmOT_gOTpDnSjEOHbV8Rkq3J5Fk5CX-fqRaRQM_D_DDOT_o-Aljvh8mAHLLWonDXx8o4A-CLRyPdIitoSLkoFPZB8vwXNRvHg-40vuaxqv14QQlFuQqc-BLF20-P9Qhu0L94QTnRDXHH2GQ9FnauSuyWhfJvYbhxsoyGDiSVWr5jMQav7Ayc_7o33f5AfWakyUB4RJkl6r44oG8Pdlb2ZRgCvQKYQEBuYgO4IbGbEkyGEST0PHKIrkcapFNlJjN-bvUPfOsMI6Cqdpzvxl9BrWnTkqRWuIx8-gEyDB9G3mXPBETNMgbHxGKXTY6RHIbo7e6EMEA00HyHMLMMDfsB7RJi6AAiS5Trw_mtLiIZo3D48iyJ79ZFgaGg..%26bt%3Ddbl%26ch%3DAQEAEAABABSBS9uh08wPGKvAsZfNLlH7jbKAEMdyY-k.%26mac%3DAQEAEAABABRnAHBTkpgczNBdtinU20EwxKiMn9hDm6s.
+.netflix.com	TRUE	/	TRUE	1720637672	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jul+11+2023+22%3A54%3A32+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&consentId=a3e654df-abe7-4887-a02c-ad7dddd5dbb7&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1720637671	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRig06OTdVPQrbQc-aH_STFXZBYvG7D9KY.%26dt%3D1689108872298
+.netflix.com	TRUE	/	TRUE	1723661671	dsca	customer
+.netflix.com	TRUE	/	TRUE	1689112471	flwssn	0d3a572d-194d-400a-8bba-937cf7205f15
+.netflix.com	TRUE	/	TRUE	1696877672	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1696877672	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1720637671	nfvdid	BQFmAAEBEEm79exSs6JHUXnnBeu8CqhgBOmq8oVclxsUXONOW-b_uNvF3YfV9bJp6HEAgbcREBVKZdQLa15GMPm6En9VUnAzXiloG0tPQ2LW6xfXD0CGVBYkwQcXTa05o9giFw28fHrwFWxCm6G38X2fibjXYTwb
+.netflix.com	TRUE	/	TRUE	1689107390	profilesNewSession	0

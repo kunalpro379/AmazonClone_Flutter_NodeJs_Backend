@@ -1,0 +1,11 @@
+www.netflix.com	TRUE	/	TRUE	1695234934	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1709491030	nfvdid	BQFmAAEBECT6CWZ7vtAv2MJy4rcerEtgcA4FJLMPN37Joa_VIj6Sh55shWjQkot8x217lcaCeqlUsuNtVB-5W8lOQYAUV65N48gbuplVI1OOpWHHD1_RwOaqQRhTwtPzp3AFOi04YjN5oWUtDFwlGapJhwBWktw9
+.netflix.com	TRUE	/	TRUE	1710174079	memclid	7e3bf6ff-c98f-4c16-afea-1c096124e592
+.netflix.com	FALSE	/	FALSE	1711221872	NetflixId	ct%3DBQAOAAEBEPqTuMJsvdSXb1kv3tTEUwOCIGNKIfuMmOSBnERMQO0Z6uRraQ-dvJAnCmqkdRsmI46rceAYFsiQLAlXk7QSi9I0HYnHmSkq3Mdu9mLUjbtzxkMe7L4ZqtlZwa_6uV7tcV3j34S8K9dgSTQAu4gCtwyqKBzV5grm8K9Y8tAO0oojShUJlc0ElCpCFJaHRXmIx3RYH_TaNSWZkd4fCNcwyt2OcvMCxCkWP3hFvSSrVFjlDBbWvh3UKUC6VyUAxcMO3hQbox4Nob6EU4QYVZ650Q8b8URzn5ucUUob5ncmoI2jucrbvrGM7CVABpNIvaN4VaBgy-1hG33Fv8kL74rql7Jq6fvzVS-zU1WuxtlFWF2LQb3Rf82LfvfMwGmY__JBu0A_18GXXaGEYdUFh1Lo6aEzVZPEVBEc_spSJWi13XWHGbFNKd0sP5PVbYmUQ4qgtqLIOAQNHDTCDEiM9gqDb3IJAEvg8O4JkMFi5VBTM_saZKOrZbyp0azEUpe2feCiJ8heS0uRwNgLWu_ZjGhou1dOXi4dAB_cutzvwkLraSpHSO-LnC9WHJMhoIduFEkXr-XmjpeIRnQ4lonM5I3tcksgn4dvNql5qkQ311MF1cD6pSWcUGd4eo4AiRtEHQ8W2Ep9uDbd2YoaRVB8ukkRLCDcp7iiHduZE6UvzjPCxIprVMnA1kgs44y34B4NK9j8hr6AK4aOCgibKc1rt_kTHScF6l-XKJK19r3dJZDctPuAxSA.%26bt%3Ddbl%26ch%3DAQEAEAABABQXgB7gR1V5BY7uwXwOiL2WToCADh-yK5Y.%26v%3D2%26mac%3DAQEAEAABABTcOG7z7ApTCjGjsW-81jdrFjYPbgXgqkM.
+.netflix.com	FALSE	/	FALSE	1711221872	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRruff0gfJmr9w-h6bJdCxL0NhU83k41GQ.%26dt%3D1679693073905
+.netflix.com	TRUE	/	TRUE	1711222491	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+24+2023+22%3A34%3A51+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=de0c26a9-6012-4320-ae23-fe755ce1355a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1714246489	dsca	customer
+.netflix.com	TRUE	/	TRUE	1687462490	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1687462490	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1687462490	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	0	profilesNewSession	

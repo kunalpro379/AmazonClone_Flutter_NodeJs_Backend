@@ -1,0 +1,12 @@
+secured.netflix.com	FALSE	/	TRUE	1721791354	thx_guid	9ca481d1157058c9c81c202e9b4929ac
+.netflix.com	TRUE	/	FALSE	0	OptanonAlertBoxClosed	2022-03-22T19:59:42.552Z
+.www.netflix.com	TRUE	/	FALSE	0	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	0	memclid	91740725-2db8-49b7-86e7-66a5ccc8a245
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPux_Up3jboa9dOQPSQb0lFg1OlF1TE-DWjJYuz5Fiaz6xccZMwMF7xatoJttapp1-UB0RV3-An4YoX5yFcE4mjO6iQeC5nGMmDB6lCLNwkHJMqJZPfccX_NGlZepDaECzCHkSUkz_vCaSG9vXaow1KZ
+.netflix.com	TRUE	/	FALSE	0	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A3.89361%7D%7D
+.netflix.com	TRUE	/	TRUE	1722140869	NetflixId	v%3D2%26ct%3DBQAOAAEBEKPwfapEUdpQO-4N1GNXy_WB0Ar4I81rZkHkhXy9yInmdqtgZJL5Fog7z1NpSg4KFC8rLQ2aYW7HYwF-hQWSkS22w0Yf2n4SVr0x3eHweTYrpeEhgKYRwo4OzrILNpuHO-HFAmJD4ALY_Kf3T7QksLzahVUXIbh5JkxplMZXJ8IjEeC8vPO17sNtx-tKNv0X1d8POwZMFpPLUFqNagWBDyKGznp0XadQJ48aiXB_GizbyVZqlMEmYWhZ2gVVgLCO2eigoFZZzbaUw1vdxbcB8qMyhIdfbZgUh9q08dtKi5nXNANViOqJI7bzmGR4I7eLFdHGsSSZRNFpHqEeEAN864s_d2CJzoDdOsIIjXYZ0ZNhzcsu8YEO7Ff12DSIPbouXhMSy_wFzy_ycy4q4Ak4z-89rsAeg2Nt11niNuN37W_aUPujRMuFtAnjNMg-hoQXUz7esDdBUrXt0ejUYj_QrgJXod3TCg9x-tcQaYhmfsykDbr1nvzf7ZP2tZGzb3RLwn6-dZoSwyrD6dZ5x3H7P8lJBfxKLIQH1je734-S37pryS8-jaLlYoZi7-ntgNt8EC8ljVnjkpaoXp9rSAUdUJ1WwuNV-uHEpIfPuDLmrKL5oM2yOwWuTpJrUehMUAEXjMW2%26bt%3Ddbl%26ch%3DAQEAEAABABTgPf0XTrcBNCjRozeiVmtQFjADUl0cCuA.%26mac%3DAQEAEAABABT7DrxPJeNdjP23U1rqnHEo3zUe_fseNJM.
+.netflix.com	TRUE	/	FALSE	1722140874	OptanonConsent	isIABGlobal=false&datestamp=Fri+Jul+28+2023+23%3A27%3A54+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202301.1.0&consentId=6779c521-e31a-4064-a8ce-f09b87eda51a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=NO%3B38&isGpcEnabled=0
+.netflix.com	TRUE	/	TRUE	1722140869	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRyizc2WOANSspwby53dobT2APew-IkIP8.%26dt%3D1690604870208
+.netflix.com	TRUE	/	FALSE	1690615671	flwssn	cbe169bb-249d-44e1-bbb2-291cf3f93dd7
+.netflix.com	TRUE	/	FALSE	1698380871	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1690606666	profilesNewSession	0

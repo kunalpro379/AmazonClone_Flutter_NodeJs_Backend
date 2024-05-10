@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	TRUE	1706368084	OptanonAlertBoxClosed	2023-01-27T17:08:04.470Z
+.netflix.com	TRUE	/	TRUE	1706628615	memclid	1a055183-8727-4345-84be-2ee681ed8fc7
+.netflix.com	TRUE	/	TRUE	1713273730	nfvdid	BQFmAAEBEJ2URUAUBSGNVaBTN3pQqQVgLAeIIIyhhkuJFewIooOucPKwZ2nPYeYpd_p1tuuHpHaUYwvlpW-FBUzAzssF6iWuX1uyUmOcX0b1cIWXJCet28dZ52bAnRFibx51jB7CygKjKiPqrelY_jyh2q4VfraC
+.netflix.com	FALSE	/	FALSE	1718898458	NetflixId	ct%3DBQAOAAEBEB61tgv17lVnjiA1Sy_oDyGCYLcJbaIdLuAmcX51sX901rMP5L4nZdu4Iy0ya8l_TcZLKwFMbzIGWa2U_24zX5PHveHsfnZy2K1wDBuMocqPIwerHqMz-gmKjEDax3MKgdCzDBM1K-qqdJ3AFNEfJxjC2jLpa0gBH6_6uDWcTj_orD4Z8L5Kb6GacoM4fwOonm29zddRpdtnHEqE2MRVEZt7Q5JHlww-RIJxFLean7_iTGzA0HOxAE47oivy0kr1G_w12JItLWHMFOtfqHfvUxy-HvDfOXB1hi3-PQ_b3BUi7LwDAJ3vgozea-EanWrD4cADTuJSMWFtwqvTiDn2P5KUOo-w--s0oT9znxqW8nX3wT-NTDYavI7XqTexBAGbFRuBqCbDUGdBLvhoUkHNsz5kDCer7TSYxntAk0uOcQGVkSQoDnZh8D5U7G84mX41Ww0iZhZfEqFXSk4khPfafyl1lN5wz12BQo9Kb9FyqvnWmvh0Q7COuA5dSQq8nh0euPDRZ6UfkKJssPDyrAay7-Q_6CPyeObSwrwmaArqEcS_jbOi7Hx5EO5TMs6Ll9LTG-wmI9j86L2sTubN4zn7o27UqwPRcoDxYNYEQtY-jgqNxbgvmsQv1IJYQFSMikP4EEcNxM09vtd4h43rZyxAQFyHm7BH06i9laIgkEu8n_0xQVFz16a7Kwqzr9_ll-TL7qZtS4UjR7Sh6QZSzRbQxuTI79bNOLbEX1QFnFO5tzRbRZoBXVEUtITCpcD6e51Fok4sQI2YoOoXdcukQj4f1NZGOt8HqzMuZp0-E_ILkVQgcvHs5-VD3y-W7bjXWhAzEoaN%26bt%3Ddbl%26ch%3DAQEAEAABABR7RMGpLGVID3w9vwbUNnKRIjhvfrvRwUg.%26v%3D2%26mac%3DAQEAEAABABQQVe1w7QKJTbLZkYhng9CAQzgknvdSFss.
+.netflix.com	FALSE	/	FALSE	1718898458	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTB0-v6x4Tm7aY0SHXAuLwhL4rXsCGQy8Q.%26dt%3D1687369658789
+.netflix.com	TRUE	/	TRUE	1718898487	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+21+2023+19%3A48%3A07+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=e7a2120b-d6f5-4186-8f8d-2201102572d7&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=PL%3B24&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1721922477	dsca	customer
+.netflix.com	TRUE	/	TRUE	1695138479	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1695138479	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1695138479	netflix-sans-normal-3-loaded	true

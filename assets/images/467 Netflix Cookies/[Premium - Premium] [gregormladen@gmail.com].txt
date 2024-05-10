@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1708540399	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1735057115	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1732208786	nfvdid	BQFmAAEBEPuWtVf-LUMNNKp2i4ZnYVZgH90EU_jjxzFrkEAH1W-9HjmXlQChdxW775T-jR7redDJAbfOOUr1FyZODa-tirzXu1GCVER6lP793I24fYn3GfSCNIStpLAaV5fw5hphPth_GEpWzaO42h6IPvFzaYiV
+.netflix.com	TRUE	/	FALSE	1708540399	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1708540399	netflix-sans-bold-3-loaded	true
+www.netflix.com	FALSE	/	FALSE	1717953167	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1708540399	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1732287295	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABREUC_JBFRPkBAXgtiGE7xx3b_7m1ySfZI.%26dt%3D1700751295837
+.netflix.com	TRUE	/	FALSE	1732287295	NetflixId	v%3D2%26ct%3DBQAOAAEBEKYOxIH5uGmmUrndWjpU_ZuB0DuFKUNboCrhKZlFBRr7yrS-i7G96iRej9RVNYcIPpMzu4p_Yf5iMtR52aVNTXJ8vpnIoi7yV_3KaC5YvZje-bKgPkk4_VA1IJWnFOvNYPh_kAZEfeBt4tkeVKQQFw6a7_mY_dEIX4cP1ZbVlf7YaHb7T9Bo7kgsECfXX1LeAghQMIG0sFQPsDnJ8QmtfFBFkjz2N3iMpPHT_6NeKH7qpUbxM1hveg2mPjf4i3vvux-pSalYgyJryqkefigulPQAplbJ_qd-e7aQQJiXp9cDzC2RfESd8zHFeMfKp_Yt-5Wq8aSlab_u_IkzyZxlD2J5DUX0Y05zE8_d0EH4MkuNbka5dZgV3y3U7pS_WMI1umUi046gA-HgGtfv2HyBfiDormS-YBYV77uR6O-yg2SbUOkV5kQ7dwaOLlwXO4E03JayxjJPr6mv5Iq6BLWeytGjOzxclboP4zCI3zcaAX0bYlRA4gGiP-BpfE-VRFwBaUzrzL75bjF6Hwfzr3r9FThx83JXqxBO0vJwVHl5D2tVM_j5J-29Lbmdv2QTn8MBeZ_9BKV5pT-sE2RAJEoIzu2X4JbB1O-3hi5R6fsp7PAU80iKY3j2NWPa4ZD5v3XL71Jn%26bt%3Ddbl%26ch%3DAQEAEAABABSrZCSODkszgOlsqNft0H1udkMx_79bt7I.%26mac%3DAQEAEAABABTRII8TXEyVcb1jz5hLIc36tIpVJbwP2iM.
+.netflix.com	TRUE	/	FALSE	1700766260	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1700775198	flwssn	c4638821-9deb-4de7-91d7-7aee1d98cf75
+.netflix.com	TRUE	/	FALSE	1732300401	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+23+2023+19%3A33%3A21+GMT%2B0100+(Central+European+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=009bf785-b1bd-429e-b4a7-f81073f6bfae&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
